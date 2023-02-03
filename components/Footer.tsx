@@ -121,7 +121,7 @@ function Footer() {
       <Flex
         borderTopColor="whiteAlpha.500"
         borderTopWidth="2px"
-        py={5}
+        pt={5}
         justify="space-between"
       >
         <Text fontSize="sm" fontWeight={"400"}>
